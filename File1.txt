@@ -4,3 +4,4 @@ Line 3
 Line 4
 NEW LINE 5
 NEW LINE 6
+Line 7 from branch BranchLine7
